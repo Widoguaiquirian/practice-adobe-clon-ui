@@ -1,0 +1,16 @@
+1-Identify all the parts and prioritize them in order of redesign urgency.(translate to programming)
+What you see
+Translate to programing
+
+Lo primero que veo son 3 cajas similar size.
+hay un alineamiento y espacio similar entre las cajas.
+Es responsive
+el width tiene un min width, el height es absoluto
+caja 1, 2 y 3
+
+
+
+2-Integrate information processing and planning the work to do
+What you will do
+Translate to programing
+and design
